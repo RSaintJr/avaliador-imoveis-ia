@@ -8,7 +8,7 @@
 ## Sobre o Projeto
 Este projeto consiste em uma aplicação web preditiva focada na avaliação de ativos imobiliários. A solução utiliza um pipeline de Machine Learning para estimar o valor de mercado de propriedades com base em variáveis geoespaciais, demográficas e estruturais. O objetivo principal é demonstrar a aplicação ponta a ponta de engenharia de dados e modelagem preditiva na resolução de problemas de precificação.
 
-**Acesso à Aplicação em Produção:** [INSERIR SEU LINK DO STREAMLIT AQUI]
+**Acesso à Aplicação em Produção:** https://avaliador-imoveis-ia.streamlit.app/
 
 ## Arquitetura e Pipeline de Dados
 O desenvolvimento foi estruturado com foco em rigor estatístico e otimização para ambientes de produção:
